@@ -25,3 +25,10 @@ flat 모니터로 chess board를 calibration과 distortion correction을 했을�
 [0.00000000e+00 1.24338160e+03 5.05569875e+02]
 [0.00000000e+00 0.00000000e+00 1.00000000e+00]]
 - Distortion coefficient (k1, k2, p1, p2, k3, ...) = [ 0.14512652 -0.35633017 0.04920413 0.00560403 1.6626042 ]
+
+## screenshots
+
+![flat original](screenshots/flat_original.png)
+![flat rectified](screenshots/flat_rectified.png)
+![curved original](screenshots/curved_original.png)
+![curved rectified](screenshots/curved_rectified.png)

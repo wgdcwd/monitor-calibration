@@ -2,7 +2,7 @@ import numpy as np
 import cv2 as cv
 
 # The given video and calibration data
-video_file = 'flat.avi'
+video_file = 'data/flat.avi'
 K = np.array(  [[1.11361069e+03, 0.00000000e+00, 6.32623125e+02],
 [0.00000000e+00, 1.11380296e+03, 3.74014938e+02],
 [0.00000000e+00, 0.00000000e+00, 1.00000000e+00]]) # Derived from `calibrate_camera.py`
